@@ -1,0 +1,13 @@
+{
+  "app": "Kumiko Studio",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "minimumMacOS": "12.0",
+  "nativeRuntime": "system AppKit and WebKit",
+  "externalRuntimeRequired": false,
+  "appleDeveloperNotarized": false,
+  "bundleAdHocSignedOnMac": false,
+  "executableSHA256": "156b5e2a8658af4e39060f236211b965de60faefdc0a44dc45241b11d5cbef4f"
+}

@@ -1,0 +1,13 @@
+{
+  "esbuild-0.28.2.tgz": "e045f94c235c7adc50e77ba2a579c7bec41b496b6b47c3a7845f7c1e19959a88",
+  "esbuild-LICENSE": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+  "esbuild-source-v0.28.2.tar.gz": "ab60c45481247f18907bcf00f69dee8866cc9e6c34c9e4078b36cecbf1041dfc",
+  "manifold-3d-3.5.4.tgz": "cf57c91fcd33b6315bff28e424ac8c5f04acb5410e9dd8e9886838303910c568",
+  "manifold-LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+  "manifold-cpp-v3.5.4.tar.gz": "9e42da0db685a336356544a54cf70ca86ac3be0e60f59fdbeddf1b2bc7a19ab9",
+  "playwright-1.51.1.tgz": "3a6c0086adaa6db58f5d2d2e8c6e6feb6971084385efb9ff0efa4cac181334d0",
+  "playwright-LICENSE": "45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb",
+  "playwright-core-1.51.1.tgz": "780064c4e3d98a0f80d66afe8befb576a7a3471766ef3dfe6d46c9836fce5e6b",
+  "three-0.186.1.tgz": "8cd068708ea44f2c73c944b1cead2ba2f0d5c15c8fc194e5700f4e4f4a033fe7",
+  "three-LICENSE": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+}

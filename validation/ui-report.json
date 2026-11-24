@@ -1,0 +1,32 @@
+[
+  {
+    "browser": "chromium",
+    "passed": true,
+    "offline": true,
+    "workflows": [
+      "generation",
+      "tiling",
+      "native image bridge",
+      "cell edit",
+      "project save/load",
+      "ZIP export",
+      "help",
+      "input validation"
+    ]
+  },
+  {
+    "browser": "webkit",
+    "passed": true,
+    "offline": true,
+    "workflows": [
+      "generation",
+      "tiling",
+      "native image bridge",
+      "cell edit",
+      "project save/load",
+      "ZIP export",
+      "help",
+      "input validation"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "archives": [
+    {
+      "archive": "mountain_sunrise_print_set.zip",
+      "stls": 6,
+      "passed": true
+    },
+    {
+      "archive": "chromium-ui-export.zip",
+      "stls": 6,
+      "passed": true
+    },
+    {
+      "archive": "default-modular.zip",
+      "stls": 6,
+      "passed": true
+    },
+    {
+      "archive": "fused-empty.zip",
+      "stls": 1,
+      "passed": true
+    },
+    {
+      "archive": "fused-tonal.zip",
+      "stls": 8,
+      "passed": true
+    },
+    {
+      "archive": "large-cell-small-bed.zip",
+      "stls": 45,
+      "passed": true
+    },
+    {
+      "archive": "manual-edit.zip",
+      "stls": 6,
+      "passed": true
+    },
+    {
+      "archive": "multi-tile-modular.zip",
+      "stls": 19,
+      "passed": true
+    },
+    {
+      "archive": "pattern-asanoha.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "pattern-empty.zip",
+      "stls": 2,
+      "passed": true
+    },
+    {
+      "archive": "pattern-kagome.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "pattern-ryuso.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "pattern-sakura.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "pattern-shippo.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "pattern-tsumi.zip",
+      "stls": 3,
+      "passed": true
+    },
+    {
+      "archive": "skip-white.zip",
+      "stls": 2,
+      "passed": true
+    },
+    {
+      "archive": "texture.zip",
+      "stls": 6,
+      "passed": true
+    },
+    {
+      "archive": "transparent.zip",
+      "stls": 2,
+      "passed": true
+    },
+    {
+      "archive": "vertical-grid.zip",
+      "stls": 9,
+      "passed": true
+    },
+    {
+      "archive": "webkit-ui-export.zip",
+      "stls": 6,
+      "passed": true
+    }
+  ],
+  "totalSTLs": 142
+}

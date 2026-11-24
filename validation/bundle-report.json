@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "architectures": [
+    {
+      "architecture": "arm64",
+      "minimumMacOS": "12.0.0",
+      "bytes": 69216,
+      "systemDylibs": [
+        "/usr/lib/libSystem.B.dylib"
+      ],
+      "embeddedExecutableSignature": true
+    },
+    {
+      "architecture": "x86_64",
+      "minimumMacOS": "12.0.0",
+      "bytes": 35897,
+      "systemDylibs": [
+        "/usr/lib/libSystem.B.dylib"
+      ],
+      "embeddedExecutableSignature": false
+    }
+  ],
+  "executableSHA256": "156b5e2a8658af4e39060f236211b965de60faefdc0a44dc45241b11d5cbef4f",
+  "macOSNativeLaunchTested": false,
+  "notarized": false,
+  "offlineResourcesMatchSourceBuild": true
+}

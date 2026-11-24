@@ -1,0 +1,9 @@
+{
+  "app": "Kumiko Studio",
+  "version": "1.0.0",
+  "webTarget": "Safari 15 / macOS 12",
+  "manifold": "3.5.4",
+  "three": "0.186.1",
+  "wasmEmbedded": true,
+  "workerEmbedded": true
+}
